@@ -22,9 +22,9 @@ SEO.propTypes = {
 }
 
 SEO.defaultProps = {
-    title: "Lemniscate Technologies",
+    title: "LaOwita",
     titleTemplate: "Product Page",
-    description: "Product page of Lemniscate Technologies",
+    description: "Product page of LaOwita",
 };
 
 export default SEO;
