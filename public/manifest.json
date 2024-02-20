@@ -1,0 +1,8 @@
+{
+  "short_name": "Lemniscate Technoloigies React",
+  "name": "IT Services Company",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
